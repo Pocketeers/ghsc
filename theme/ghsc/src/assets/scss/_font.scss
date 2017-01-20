@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'avenir';
+  src: url('assets/fonts/Avenir-Roman-webfont.eot'); /* IE9 Compat Modes */
+  src: url('assets/fonts/Avenir-Roman-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/Avenir-Roman-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/fonts/Avenir-Roman-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('assets/fonts/Avenir-Roman-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/Avenir-Roman-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
